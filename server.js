@@ -19,7 +19,7 @@ const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
     user: 'alexandredouglastidouglas@gmail.com',
-    pass: 'SUA_SENHA_DE_16_DIGITOS'
+    pass: 'ytneqoccitqdsdfe'
   }
 });
 
